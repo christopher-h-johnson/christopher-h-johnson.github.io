@@ -87,3 +87,11 @@ feed:
   content: true
   content_limit: 140
   content_limit_delim: ' '
+
+search:
+  path: search.xml
+  field: post
+
+widgets:
+  search
+
