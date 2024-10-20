@@ -11,7 +11,7 @@ This is about me [Christopher Hanna Johnson](https://christopher-h-johnson.githu
 [Academia](https://tu-cottbus.academia.edu/ChristopherJohnson)
 
 ### Documents
-[Curriculum Vitae](https://christopher-h-johnson.github.io/docs/christopher-h-johnson.pdf)
+[Curriculum Vitae](docs/christopher-h-johnson.pdf)
 
 #### GitHub
 [Christopher H Johnson](https://github.com/christopher-h-johnson)
