@@ -11,7 +11,10 @@ This is about me [Christopher Hanna Johnson](https://christopher-h-johnson.githu
 [Academia](https://tu-cottbus.academia.edu/ChristopherJohnson)
 
 ### Documents
-[Curriculum Vitae](docs/christopher-h-johnson.pdf)
+[Curriculum Vitae](https://christopher-h-johnson.github.io/docs/christopher-h-johnson.pdf)
+[Diplomas](https://christopher-h-johnson.github.io/Diplomas/)
+[Certifications](https://christopher-h-johnson.github.io/Certifications/)
+[References](https://christopher-h-johnson.github.io/References/)
 
 #### GitHub
 [Christopher H Johnson](https://github.com/christopher-h-johnson)
@@ -20,3 +23,8 @@ This is about me [Christopher Hanna Johnson](https://christopher-h-johnson.githu
 
 ### Photography Blog
 [An Architectural Pilgrimage](http://glasspilgrim.blogspot.com/)
+
+### Building Project Portfolios
+[Portfolio Blog](https://chjprojects.blogspot.com/)
+[Behance Portfolio](https://www.behance.net/gallery/1660184/Architectural-Glazing-and-Metal)
+
