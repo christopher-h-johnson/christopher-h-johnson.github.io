@@ -17,5 +17,8 @@
     "hexo-renderer-marked": "1.0.0",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^0.2.0"
+  },
+  "scripts": {
+    "build": "hexo generate"
   }
 }
