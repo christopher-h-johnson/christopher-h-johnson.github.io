@@ -14,8 +14,10 @@ date: 2024-10-19 22:15:32
 
 ![](ridgeview-2.png)
 
+![](capital-blue-cross.png)
+
 ![](knowledgesoft-1.png)
 
 ![](knowledgesoft-2.png)
 
-![](capital-blue-cross.png)
+
