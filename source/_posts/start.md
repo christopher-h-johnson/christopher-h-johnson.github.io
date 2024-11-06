@@ -16,13 +16,16 @@ This is about me [Christopher Hanna Johnson](https://christopher-h-johnson.githu
 [Certifications](https://christopher-h-johnson.github.io/Certifications/)
 [References](https://christopher-h-johnson.github.io/References/)
 
+### IIIF Discovery Interface
+[React Discovery](https://discovery.chj.llc)
+
+### Photography Blog
+[An Architectural Pilgrimage](https://arch-pilgrimage.blogspot.com/)
+
 #### GitHub
 [Christopher H Johnson](https://github.com/christopher-h-johnson)
 [Christopher Johnson (Archive)](https://github.com/christopher-johnson)
 [Project Pandora](https://github.com/pan-dora)
-
-### Photography Blog
-[An Architectural Pilgrimage](http://glasspilgrim.blogspot.com/)
 
 ### Building Project Portfolios
 [Portfolio Blog](https://chjprojects.blogspot.com/)
